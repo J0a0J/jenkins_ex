@@ -10,6 +10,6 @@ public class TestController {
 
     @GetMapping("/ex")
     public String ex() {
-        return "파일명 잘못 적어서 다시 도오전";
+        return "커밋 후 내용 바뀌는지 확인";
     }
 }
